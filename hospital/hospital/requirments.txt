@@ -1,0 +1,5 @@
+django==5.1.2
+djangorestframework
+djangorestframework-simplejwt
+drf-spectacular
+psycopg2-binary
